@@ -1,5 +1,9 @@
 # PD-validacao-clusterizacao
 
+### Clusterização de modelos de carros elétricos
+
+Os carros elétricos clusterizados de forma interativa podem ser visualizados em: https://roriblim.github.io/PD-validacao-clusterizacao/src/tsne_clusters.html
+
 #### Procedimentos utilizados para preparar o ambiente
 
 1. Foi utilizado o Anaconda 25.5.1 para gerenciar o ambiente virtual.
