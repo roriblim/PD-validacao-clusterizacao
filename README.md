@@ -4,6 +4,8 @@
 
 Os carros elétricos clusterizados de forma interativa podem ser visualizados em: https://roriblim.github.io/PD-validacao-clusterizacao/src/tsne_clusters.html
 
+Dataset utilizado no trabalho disponível em: https://www.kaggle.com/datasets/vanillatyy1/electric-vehicle-dataset?select=cars_data_cleaned.csv
+
 #### Procedimentos utilizados para preparar o ambiente
 
 1. Foi utilizado o Anaconda 25.5.1 para gerenciar o ambiente virtual.
